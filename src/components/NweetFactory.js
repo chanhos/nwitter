@@ -86,7 +86,7 @@ const NweetFactory = ( {userObj })=>{
                 value={nweet}
                 onChange={onChange}
                 type="text"
-                placeholder="What's on your mind?"
+                placeholder="어떤생각을 하시죠?"
                 maxLength={120}
                 />
                 <input type="submit" value="&rarr;" className="factoryInput__arrow" />
